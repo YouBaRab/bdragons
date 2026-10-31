@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:netherrack",
+    "minecraft:crimson_fungus",
+    "minecraft:warped_fungus",
+    "minecraft:quartz",
+    "minecraft:glass_bottle"
+  ],
+  "result": {
+    "id": "bdragon:essence_nether"
+  }
+}

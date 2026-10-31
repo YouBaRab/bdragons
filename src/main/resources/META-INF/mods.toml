@@ -1,0 +1,35 @@
+modLoader="javafml"
+loaderVersion="[66,)"
+license="GPL-3.0-or-later"
+
+[[mods]]
+modId="bdragon"
+version="1.8.0"
+displayName="Bdragon"
+logoFile="bdragon_logo.png"
+authors="YouBaRab"
+credits="Dragon model & animations: Dragon Mounts: Legacy (Kay9, Nico Bergemann, GPL-3.0). Dragon textures: Dragon Mounts: Legacy and Even More Dragons (EvilNick, BarracudaAta4, Lintha437, Kay9Unit, FuriusMaximus, MIT). Inspired by Morph (iChun). Nether Demon (alpha of the Nether): torso and legs from the Jersey Devil model (Andre's 5000W Bass-M, MCreator, Academic Free License 3.0). Sylvan Tortoise: shape after the alligator snapping turtle of Alex's Mobs (Alexthe666, LGPL-3.0). Tempest Dragon: movements inspired by Cobblemon (idea only)."
+description='''
+Bdragon (« be dragon ») : deviens un dragon ! Accomplis les quêtes d'ingrédients à l'Autel draconique, choisis ta race parmi 11 (chacune avec son corps et sa texture : volcan aux bulles de lave, couronne de glace, serpents de mer et d'orage, lianes et champignons, tridents, ailes en lames de lumière, couronne de crânes, croissant de lune...), passe de la forme hybride (griffes qui creusent) à la forme dragon, grandis en 5 stades en défiant les dragons sauvages dans leurs repaires, puis deviens l'Alpha de ta race grâce à l'Orbe du pouvoir (4 écailles alpha + 1 étoile du Nether, éveil en cinématique). Monde « Musée Bdragon » pour tout essayer. Compatible JourneyMap.
+'''
+
+[[dependencies.bdragon]]
+    modId="forge"
+    mandatory=true
+    versionRange="[66,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.bdragon]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[26.3,26.4)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.bdragon]]
+    modId="journeymap"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="CLIENT"

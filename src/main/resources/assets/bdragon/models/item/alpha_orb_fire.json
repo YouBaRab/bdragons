@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "bdragon:item/alpha_orb_fire"
+  }
+}

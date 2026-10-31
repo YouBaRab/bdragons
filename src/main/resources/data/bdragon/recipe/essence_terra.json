@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:bricks",
+    "#minecraft:terracotta",
+    "minecraft:clay_ball",
+    "minecraft:raw_gold",
+    "minecraft:glass_bottle"
+  ],
+  "result": {
+    "id": "bdragon:essence_terra"
+  }
+}

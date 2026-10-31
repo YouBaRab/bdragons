@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:soul_sand",
+    "minecraft:bone_block",
+    "minecraft:coal_block",
+    "minecraft:nether_brick",
+    "minecraft:glass_bottle"
+  ],
+  "result": {
+    "id": "bdragon:essence_wither"
+  }
+}

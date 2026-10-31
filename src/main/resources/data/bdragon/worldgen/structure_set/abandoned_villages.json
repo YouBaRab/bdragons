@@ -1,0 +1,34 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 52918377,
+    "separation": 12,
+    "spacing": 48,
+    "exclusion_zone": {
+      "other_set": "minecraft:villages",
+      "chunk_count": 8
+    }
+  },
+  "structures": [
+    {
+      "structure": "bdragon:abandoned_village_plains",
+      "weight": 1
+    },
+    {
+      "structure": "bdragon:abandoned_village_desert",
+      "weight": 1
+    },
+    {
+      "structure": "bdragon:abandoned_village_savanna",
+      "weight": 1
+    },
+    {
+      "structure": "bdragon:abandoned_village_snowy",
+      "weight": 1
+    },
+    {
+      "structure": "bdragon:abandoned_village_taiga",
+      "weight": 1
+    }
+  ]
+}

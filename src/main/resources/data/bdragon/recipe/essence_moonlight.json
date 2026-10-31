@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:phantom_membrane",
+    "minecraft:glow_berries",
+    "minecraft:quartz",
+    "minecraft:calcite",
+    "minecraft:glass_bottle"
+  ],
+  "result": {
+    "id": "bdragon:essence_moonlight"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  B",
+    " G ",
+    "B  "
+  ],
+  "key": {
+    "B": "minecraft:bone",
+    "G": "minecraft:gold_ingot"
+  },
+  "result": {
+    "id": "bdragon:challenge_horn"
+  }
+}

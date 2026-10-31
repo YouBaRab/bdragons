@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "#minecraft:saplings",
+    "minecraft:moss_block",
+    "minecraft:sweet_berries",
+    "minecraft:apple",
+    "minecraft:glass_bottle"
+  ],
+  "result": {
+    "id": "bdragon:essence_forest"
+  }
+}

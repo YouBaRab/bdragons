@@ -1,0 +1,205 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "particle": "minecraft:block/crying_obsidian",
+    "base": "minecraft:block/obsidian",
+    "pillar": "minecraft:block/crying_obsidian",
+    "top": "minecraft:block/enchanting_table_top",
+    "gold": "minecraft:block/gilded_blackstone",
+    "trim": "minecraft:block/polished_blackstone"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        16,
+        4,
+        16
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#base",
+          "cullface": "down"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#base"
+        },
+        "north": {
+          "uv": [
+            0,
+            12,
+            16,
+            16
+          ],
+          "texture": "#gold",
+          "cullface": "north"
+        },
+        "south": {
+          "uv": [
+            0,
+            12,
+            16,
+            16
+          ],
+          "texture": "#gold",
+          "cullface": "south"
+        },
+        "west": {
+          "uv": [
+            0,
+            12,
+            16,
+            16
+          ],
+          "texture": "#gold",
+          "cullface": "west"
+        },
+        "east": {
+          "uv": [
+            0,
+            12,
+            16,
+            16
+          ],
+          "texture": "#gold",
+          "cullface": "east"
+        }
+      }
+    },
+    {
+      "from": [
+        3,
+        4,
+        3
+      ],
+      "to": [
+        13,
+        12,
+        13
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            3,
+            4,
+            13,
+            12
+          ],
+          "texture": "#pillar"
+        },
+        "south": {
+          "uv": [
+            3,
+            4,
+            13,
+            12
+          ],
+          "texture": "#pillar"
+        },
+        "west": {
+          "uv": [
+            3,
+            4,
+            13,
+            12
+          ],
+          "texture": "#pillar"
+        },
+        "east": {
+          "uv": [
+            3,
+            4,
+            13,
+            12
+          ],
+          "texture": "#pillar"
+        }
+      }
+    },
+    {
+      "from": [
+        1,
+        12,
+        1
+      ],
+      "to": [
+        15,
+        16,
+        15
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            1,
+            1,
+            15,
+            15
+          ],
+          "texture": "#trim"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#top",
+          "cullface": "up"
+        },
+        "north": {
+          "uv": [
+            1,
+            0,
+            15,
+            4
+          ],
+          "texture": "#trim"
+        },
+        "south": {
+          "uv": [
+            1,
+            0,
+            15,
+            4
+          ],
+          "texture": "#trim"
+        },
+        "west": {
+          "uv": [
+            1,
+            0,
+            15,
+            4
+          ],
+          "texture": "#trim"
+        },
+        "east": {
+          "uv": [
+            1,
+            0,
+            15,
+            4
+          ],
+          "texture": "#trim"
+        }
+      }
+    }
+  ]
+}

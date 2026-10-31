@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:blaze_rod",
+    "minecraft:magma_cream",
+    "minecraft:fire_charge",
+    "minecraft:coal_block",
+    "minecraft:glass_bottle"
+  ],
+  "result": {
+    "id": "bdragon:essence_fire"
+  }
+}

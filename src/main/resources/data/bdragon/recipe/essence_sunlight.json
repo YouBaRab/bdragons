@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:glowstone_dust",
+    "minecraft:sunflower",
+    "minecraft:gold_ingot",
+    "minecraft:honeycomb",
+    "minecraft:glass_bottle"
+  ],
+  "result": {
+    "id": "bdragon:essence_sunlight"
+  }
+}

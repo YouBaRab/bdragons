@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:prismarine_crystals",
+    "minecraft:prismarine_shard",
+    "minecraft:nautilus_shell",
+    "minecraft:kelp",
+    "minecraft:glass_bottle"
+  ],
+  "result": {
+    "id": "bdragon:essence_water"
+  }
+}

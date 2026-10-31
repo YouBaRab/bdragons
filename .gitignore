@@ -1,0 +1,37 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run
+
+# Files from Forge MDK
+forge_README.txt
+forge*changelog.txt
+
+# Bdragon: never in the public repository
+*.zip
+javac.*.args
+logs
+crash-reports
+__pycache__
+*.pyc
+.DS_Store
+Thumbs.db
+desktop.ini
